@@ -25,9 +25,9 @@ This project is designed to learn **Java basics**, including:
 -  Input validation for safe transactions  
 
 ---
-Sample Output
+### Sample Output ###
 
-### Banking Application ###
+ Banking Application 
 1. Create a new account
 2. Deposit money
 3. Withdraw money
