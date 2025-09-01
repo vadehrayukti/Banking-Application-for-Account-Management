@@ -34,6 +34,7 @@ Sample Output
 4. View account details
 5. Update contact details
 6. Exit
+   <br>
 Enter your choice: 1
 Enter account holder name: Yukti
 Enter initial deposit amount: 5000
