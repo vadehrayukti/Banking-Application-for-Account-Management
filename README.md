@@ -25,3 +25,19 @@ This project is designed to learn **Java basics**, including:
 -  Input validation for safe transactions  
 
 ---
+Sample Output
+
+### Banking Application ###
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. View account details
+5. Update contact details
+6. Exit
+Enter your choice: 1
+Enter account holder name: Yukti
+Enter initial deposit amount: 5000
+Enter email address: yukti@example.com
+Enter phone number: 9876543210
+Account created successfully! Account Number: 1001
+
