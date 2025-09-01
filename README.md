@@ -36,9 +36,14 @@ Sample Output
 6. Exit
    <br>
 Enter your choice: 1
+<br>
 Enter account holder name: Yukti
+<br>
 Enter initial deposit amount: 5000
+<br>
 Enter email address: yukti@example.com
+<br>
 Enter phone number: 9876543210
+<br>
 Account created successfully! Account Number: 1001
 
